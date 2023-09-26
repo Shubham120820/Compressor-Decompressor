@@ -35,7 +35,7 @@ public class AppFrame extends JFrame implements ActionListener {
         this.add(decompressButton);
 
         // Set frame
-        this.setTitle("Compressor_Decompressor(Abdul Majeed Shaik)");
+        this.setTitle("Compressor Decompressor");
         this.setLayout(null);
         this.setVisible(true);
         this.getContentPane().setBackground(Color.black);
